@@ -15,5 +15,19 @@
         "**/yotta_modules": true,
         "**/yotta_targets": true,
         "**/pxt_modules": true
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#7CDDE6",
+        "activityBar.background": "#000303",
+        "activityBar.inactiveForeground": "#006344",
+        "activityBarBadge.foreground": "#000E46",
+        "activityBarBadge.background": "#92A8FF",
+        "statusBar.foreground": "#D9F181",
+        "statusBar.background": "#566D00",
+        "statusBarItem.hoverBackground": "#000000",
+        "statusBarItem.remoteForeground": "#A8FFA1",
+        "statusBarItem.remoteBackground": "#22841A",
+        "statusBar.debuggingForeground": "#000000",
+        "statusBar.debuggingBackground": "#8DA535"
     }
 }

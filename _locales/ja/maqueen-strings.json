@@ -1,0 +1,23 @@
+{
+    "maqueen.aMotors.M1|block": "左側",
+    "maqueen.aMotors.M2|block": "右側",
+    "maqueen.Patrol.PatrolLeft|block": "左侧",
+    "maqueen.Patrol.PatrolRight|block": "右侧",
+    "maqueen.LEDswitch.turnOn|block": "つける",
+    "maqueen.LEDswitch.turnOff|block": "消す",
+    "maqueen.LED.LEDLeft|block": "左侧",
+    "maqueen.LED.LEDRight|block": "右侧",
+    "maqueen.Dir.CW|block": "右回り",
+    "maqueen.Dir.CCW|block": "左回り",
+    "maqueen.motorStop|block": "モーターとめる|%motors",
+    "maqueen.motorStopAll|block": "全部止める",
+    "maqueen.MotorRun|block": "モーター|%index|方向|%Dir|速度|%speed",
+    "maqueen.IR_callbackUser|block": "赤外線を受信したとき",
+    "maqueen.sensor|block": "超音波センサーきょり|%unit",
+    "maqueen.readPatrol|block": "底面センサー読込|%patrol",
+    "maqueen.writeLED|block": "LED|%led,|%ledswitch",
+    "maqueen.IR_read|block": "赤外線読込",
+    "maqueen.ServoRun|block": "サーボ|%index|角度|%angle",
+    "maqueen.IR_read_version|block": "IRバージョン",
+    "maqueen.aMotors.All|block": "全部"
+}
